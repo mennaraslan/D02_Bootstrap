@@ -1,1 +1,2 @@
 # D02_Bootstrap
+The link of the video: https://cisasuedu-my.sharepoint.com/:v:/g/personal/2021170549_cis_asu_edu_eg/IQBiduePZdfkQJ6pyEaN9_TOAYSpzMXc4jmgsIetveuow6M?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=Oh7WcZ
